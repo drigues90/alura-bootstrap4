@@ -1,0 +1,9 @@
+.imagem-carrossel{
+    object-fit: cover;
+    object-position: 0% 85%;
+    height: 500px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
