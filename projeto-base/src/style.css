@@ -11,3 +11,19 @@
 .cor-titulo {
     color: darkred;
 }
+
+.imagem-card {
+    object-fit: cover;
+    height: 215px;
+}
+
+.estilo-card {
+    border-color :darkred !important;
+}
+
+.botao-card {
+    color: white !important ;
+    background-color: darkred !important;
+    border-color: darkred !important;
+}
+
